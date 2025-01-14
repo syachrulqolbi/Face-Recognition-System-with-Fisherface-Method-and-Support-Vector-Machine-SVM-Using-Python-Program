@@ -58,16 +58,10 @@ Data Preprocessing, Prediction, and Visualization Notebook
 
 ## Contributing DSWG Members
 
-**Team Leads (Contacts) : [Syachrul Qolbi Nur Septi](https://github.com/syachrulqolbi)**
+**Team Leads : [Syachrul Qolbi Nur Septi](https://github.com/syachrulqolbi)**
 
 #### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is #datasci-projectname
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+[Nurul Gusriani](https://scholar.google.com/citations?user=dVeLr_IAAAAJ)
+[Iin Irianingsih](https://scholar.google.co.id/citations?user=Qp_esq8AAAAJ)
+[Herlina Napitupulu](https://scholar.google.co.id/citations?user=8YbKgv8AAAAJ)
+[Intan Nurma Yulita](https://scholar.google.com/citations?user=AFopUdQAAAAJ)
