@@ -33,17 +33,6 @@ This project focuses on processing face images from the **Labeled Faces in the W
 4. **Classification**: Implements a Support Vector Machine (SVM) to classify faces into categories based on labels.
 5. **Visualization**: Displays the mean face image, eigenfaces, and reconstructed images from the reduced feature space.
 
-### Challenges
-- Handling images with undetected faces during preprocessing.
-- Optimizing the Fisherface method for large datasets.
-- Achieving high classification accuracy with SVM.
-
-## Needs of This Project
-- Data processing and cleaning expertise.
-- Machine learning model tuning.
-- Advanced visualization techniques for reconstructed faces.
-- Writeup/reporting for documentation and results.
-
 ## Directory Structure
 ```
 ├── code.ipynb         <- Jupyter Notebook containing the code for data preprocessing, prediction, and visualization.
