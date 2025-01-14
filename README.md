@@ -58,7 +58,7 @@ Data Preprocessing, Prediction, and Visualization Notebook
 
 ## Contributing DSWG Members
 
-**Team Leads (Contacts) : [Syachrul Qolbi Nur Septi](https://github.com/[github handle])(@slackHandle)**
+**Team Leads (Contacts) : [Syachrul Qolbi Nur Septi](https://github.com/syachrulqolbi)**
 
 #### Other Members:
 
