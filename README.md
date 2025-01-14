@@ -58,6 +58,15 @@ Follow the steps below to set up the environment and execute the system:
 ### Featured Notebooks/Analysis/Deliverables
 * [Data Preprocessing, Prediction, and Visualization Code](./code.ipynb)
 
+## Results
+### Face Recognition Model
+| Metric       | Value |
+|--------------|-------|
+| Accuracy     | 88.16%|
+| Precision    | 89.50%|
+| Recall       | 82.44%|
+| F1-Score     | 85.00%|
+
 ## Contributing Members
 
 **Team Lead**  
