@@ -1,7 +1,7 @@
 # Face Recognition System with Fisherface Method and Support Vector Machine
 This project is part of my Bachelor's Degree thesis and was also featured in a paper published by IEEE, though it uses a different dataset. The published paper is available at [IEEE](https://ieeexplore.ieee.org/document/9689738).
 
-#### -- Project Status: Done
+#### -- Project Status: Done**
 
 ## Project Intro/Objective
 The purpose of this project is to build a face recognition system using the Fisherface method for dimensionality reduction and a Support Vector Machine (SVM) for classification. This project explores effective facial image processing techniques and provides a robust machine learning model for recognizing faces from images. The system has potential applications in security, identity verification, and user authentication systems.
