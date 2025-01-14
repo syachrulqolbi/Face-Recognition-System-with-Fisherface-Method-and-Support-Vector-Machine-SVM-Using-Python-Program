@@ -44,6 +44,12 @@ This project focuses on processing face images from the **Labeled Faces in the W
 - Advanced visualization techniques for reconstructed faces.
 - Writeup/reporting for documentation and results.
 
+## Directory Structure
+```
+├── code.ipynb         <- Jupyter Notebook containing the code for data preprocessing, prediction, and visualization.
+├── README.md          <- Project documentation and instructions.
+```
+
 ## Getting Started
 
 1. **Clone this repository**:
