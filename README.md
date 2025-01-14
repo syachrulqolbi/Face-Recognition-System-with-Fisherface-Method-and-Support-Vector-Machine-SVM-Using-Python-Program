@@ -56,12 +56,18 @@ Follow the steps below to set up the environment:
 ### Featured Notebooks/Analysis/Deliverables
 Data Preprocessing, Prediction, and Visualization Notebook
 
-### Contributing Members
-## Team Leads (Contacts):
-Syachrul Qolbi Nur Septi (@yourSlackHandle)
-Other Members:
-Name	Slack Handle
-[Nurul Gusriani](https://github.com/[github handle])	@johnDoe
-[Iin Irianingsih,](https://github.com/[github handle])	@janeDoe
-[Nurul Gusriani](https://github.com/[github handle])	@johnDoe
-[Iin Irianingsih,](https://github.com/[github handle])	@janeDoe
+## Contributing DSWG Members
+
+**Team Leads (Contacts) : [Syachrul Qolbi Nur Septi](https://github.com/[github handle])(@slackHandle)**
+
+#### Other Members:
+
+|Name     |  Slack Handle   | 
+|---------|-----------------|
+|[Full Name](https://github.com/[github handle])| @johnDoe        |
+|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+
+## Contact
+* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
+* Our slack channel is #datasci-projectname
+* Feel free to contact team leads with any questions or if you are interested in contributing!
