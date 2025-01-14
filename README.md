@@ -42,7 +42,7 @@ This project focuses on processing face images from the **Labeled Faces in the W
 
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+1. Clone this repo.
 2. Raw Data is being kept in the **Labeled Faces in the Wild Home Focused** directory. Download the dataset from [LFW](http://vis-www.cs.umass.edu/lfw/) if not already included.
 3. Data processing/transformation scripts are being kept in the main directory.
 
@@ -54,7 +54,7 @@ Follow the steps below to set up the environment:
 2. Run the Python notebook to execute the system:
 
 ### Featured Notebooks/Analysis/Deliverables
-Data Preprocessing, Prediction, and Visualization Notebook
+[Data Preprocessing, Prediction, and Visualization Code](./code.ipynb)
 
 ## Contributing DSWG Members
 
